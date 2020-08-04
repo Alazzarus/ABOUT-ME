@@ -4,7 +4,7 @@
 Sou apaixonado por tecnologia e inovação.
 Sou um Desenvolvedor Front-End em constante aprendizado e desenvolvimento! :computer:
 
- :rocket:  &nbsp; Estou em transição de área e estudando tudo o que posso sobre linguagens de programação para solucionar problemas e desenvolver uma nova carreira.
+ :rocket:  &nbsp; Estou em transição de área e estudando tudo o que posso sobre linguagens de programação para me tornar um grande solucionador de problemas, e desenvolver uma carreira concisa e expressiva.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Bootstrap4, JavaScript, SQL
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Games, Séries, Filmes.
